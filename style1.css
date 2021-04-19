@@ -1,0 +1,10 @@
+body {
+    background-color:blueviolet;
+}
+
+img {
+    position: relative;
+    width:100px ;
+    height: 100px;
+    margin: 10px;
+}
